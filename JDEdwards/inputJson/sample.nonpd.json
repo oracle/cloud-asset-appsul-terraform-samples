@@ -1,0 +1,33 @@
+{
+    "AD": [
+      "1"
+    ],
+    "env_prefix": "npd",
+    "sm_instance_count": "0",
+    "sm_instance_shape": "VM.Standard2.2",
+    "sm_bv_size": "80",
+    "dep_instance_count": "0",
+    "dep_instance_shape": "VM.Standard2.2",
+    "logic_instance_count": "1",
+    "logic_instance_shape": "VM.Standard2.2",
+    "logic_bv_size": "50",
+    "batch_instance_count": "0",
+    "batch_instance_shape": "VM.Standard2.2",
+    "batch_bv_size": "50",
+    "wls_instance_count": "1",
+    "wls_instance_shape": "VM.Standard2.2",
+    "wls_bv_size": "50",
+    "unix_mount_directory": "//u01",
+    "db_count": "1",
+    "db_admin_password": "<password>",
+    "db_characterset": "AL32UTF8",
+    "db_edition": "ENTERPRISE_EDITION_EXTREME_PERFORMANCE",
+    "db_instance_shape": "VM.Standard2.2",
+    "db_license_model": "LICENSE_INCLUDED",
+    "db_name": "ORCL",
+    "db_nls_characterset": "AL16UTF16",
+    "db_node_count": "1",
+    "db_pdb_name": "JDEPDB",
+    "db_size_in_gb": "256",
+    "db_version": "12.1.0.2"
+}

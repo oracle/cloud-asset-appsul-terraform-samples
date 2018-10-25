@@ -1,0 +1,33 @@
+{
+    "AD": [
+      "1",
+      "2"
+    ],
+    "vcn_dns_label": "jdevcn",
+    "vcn_cidr": "172.16.0.0/16",
+    "linux_os_version": "7.5",
+    "env_prefix": "jde",
+    "lbaas_es_port": [
+      "6017",
+      "6022"
+    ],
+    "standalone_jas_pd": [
+      "8000",
+      "8003"
+    ],
+    "lbaas_standalone_html": "8000",
+    "jas_pd": [
+      "8010",
+      "8013"
+    ],
+    "lbaas_html": "8010",
+    "ais_pd": [
+      "8020",
+      "8023"
+    ],
+    "lbaas_ais": "8020",
+    "web_nonpd": [
+      "8030",
+      "8050"
+    ]
+}
