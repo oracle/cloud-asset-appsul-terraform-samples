@@ -5,6 +5,7 @@ This is a repository of Terraform modules for Oracle Applications. The repositor
 * [**Oracle E-Business Suite**](https://github.com/oracle/cloud-asset-appsul-terraform-samples/tree/master/EBusinessSuite)
 * [**JD Edwards**](https://github.com/oracle/cloud-asset-appsul-terraform-samples/tree/master/JDEdwards)
 * [**Siebel CRM**](https://github.com/oracle/cloud-asset-appsul-terraform-samples/tree/master/SiebelCRM)
+* [**Peoplesoft**](https://github.com/oracle/cloud-asset-appsul-terraform-samples/tree/master/Peoplesoft)
 
 All these applications can be deployed on Oracle Cloud Infrastructure in single availability domain or multiple availability domain architecture. The Terraform modules allow you to provision infrastructure for these applications on Oracle Cloud Infrastructure using Terraform. 
 
@@ -12,13 +13,16 @@ All these applications can be deployed on Oracle Cloud Infrastructure in single 
 The following directories are contained within this repository:
 
 **/EBusinessSuite**
-* This folder contains Terraform modules for Oracle E-Business Suite
+* This folder contains Terraform modules for Oracle E-Business Suite.
 
 **/JDEdwards**
-* This folder contains Terraform modules for JD Edwards
+* This folder contains Terraform modules for JD Edwards.
 
 **/SiebelCRM**
-* This folder contains Terraform modules for Siebel CRM
+* This folder contains Terraform modules for Siebel CRM.
+
+**/Peoplesoft**
+* This folder contains Terraform modules for Peoplesoft.
 
 For more information on deployment architecture of Oracle applications on Oracle Cloud Infrastructure, see
 
@@ -37,8 +41,9 @@ For more information on deployment architecture of Oracle applications on Oracle
 ### Siebel CRM
 - [Architecture for Deploying Siebel CRM in a Single Availability domain](https://docs.oracle.com/en/solutions/learn-architecture-deploy-siebel/index.html#GUID-CE993A4C-CFEF-4F55-8489-0905D796CBAA)
 
-
-
+### Peoplesoft
+- [Architecture for Deploying PeopleSoft in a Single Availability domain](https://docs.oracle.com/en/solutions/learn-architecture-deploy-peoplesoft/index.html#GUID-3C2AFE54-DE6A-4FF2-9387-64338CBDD428)
+- [Architecture for Deploying PeopleSoft in Multiple Availability domains](https://docs.oracle.com/en/solutions/learn-architecture-deploy-peoplesoft/index.html#GUID-5566261F-32FB-4E0A-A00D-6935EC6E5C7A)
 
 # License
 Copyright © 2018, Oracle and/or its affiliates. All rights reserved. 
